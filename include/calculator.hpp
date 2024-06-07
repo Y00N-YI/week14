@@ -7,4 +7,4 @@ public:
     int Multiply(int a, int b);
 };
 
-#endif // CALCULATOR_HPP
+#endif
